@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://yamany.github.io/ac/sitemap.xml
-
+Sitemap: https://yamany1.github.io/ac/sitemap.xml
