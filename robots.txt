@@ -2,8 +2,3 @@ User-agent: *
 Allow: /
 Sitemap: https://yamany.github.io/ac/sitemap.xml
 
-# Crawl-delay: 10 (يمكن تفعيله إذا كان الموقع يحتوي على الكثير من المحتوى)
-
-User-agent: Googlebot
-Allow: /
-Disallow: /assets/
